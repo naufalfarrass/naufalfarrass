@@ -1,5 +1,4 @@
-## Hi there 👋
-- I'm Naufal Farras
+## Hi there 👋, I'm Naufal
 - Interested in Data Analyst/Data Science role
 - Currently learning Python and SQL
 
