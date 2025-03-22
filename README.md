@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Naufal
-- Interested in Data Analyst/Data Science role
+- Interested in Data Analyst/Data Scientists role
 - Currently learning Python and SQL
 
 <!--
