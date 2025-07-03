@@ -1,6 +1,4 @@
 ## Hi there 👋, I'm Naufal
-- Interested in Data Analyst/Data Scientist role
-- Currently learning Python and SQL
 
 <!--
 **naufalfarrass/naufalfarrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
